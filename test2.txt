@@ -1,0 +1,15 @@
+O 1208 Tayor Swift
+D 1208 1 200 
+D 1208 7 300
+D 1208 4 900
+D 1208 5 1000
+D 1208 8 10000
+D 1208 9 513
+O 65 Lana Del Rey
+O 1000 Travis Kelce
+O 14 Blake Lively 
+D 14 6 1000
+D 65 -1 200
+D 1000 5 -171
+H 1208
+H 65
